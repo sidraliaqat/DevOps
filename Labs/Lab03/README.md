@@ -4,6 +4,7 @@
 
 This lab focuses on advanced Git operations, including conflict resolution, commit history management, stashing, resetting, reverting, and GitHub workflows.
 Remote conflict edit for Task 2 on GitHub.
+Local conflict edit for Task 2 on Ubuntu.
 
 ## Tasks
 
