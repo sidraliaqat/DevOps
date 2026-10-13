@@ -22,3 +22,7 @@ This lab focuses on advanced Git operations, including conflict resolution, comm
 
 Screenshots and practical evidence are stored in the screenshots directory. Practical outputs, exam questions, and the final report will be added as the lab progresses.
 Local update for Task 1: edited on Ubuntu.
+
+Remote update for Task 1: edited directly on GitHub.
+
+
