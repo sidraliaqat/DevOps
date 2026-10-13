@@ -3,6 +3,7 @@
 ## Objective
 
 This lab focuses on advanced Git operations, including conflict resolution, commit history management, stashing, resetting, reverting, and GitHub workflows.
+Rebase practice: remote change made on GitHub.
 
 ## Tasks
 
